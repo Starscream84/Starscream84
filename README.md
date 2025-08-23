@@ -16,46 +16,36 @@
 
 ###
 
-<p align="left">🎲 Fun fact: <br>Me gusta correr...<br>Mi hobby favorito es dibujar, te invito a ver mi <a href="https://www.artstation.com/matias84">portfolio</a>.</p>
+<p align="left">
+  🎲 Fun fact: <br>Me gusta correr...<br>Mi hobby favorito es dibujar, te invito a ver mi <a href="https://www.artstation.com/matias84">portfolio</a>.</p>
 
 ###
 
 <h2 align="left">Lenguajes que estoy aprendiendo || Languages ​​I'm learning:</h2>
 
-###
-
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+</p>
 
 ###
 
 <h2 align="left">Herramientas que estoy aprendiendo || Tools I'm learning:</h2>
 
-###
-
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+</p>
 
 ###
 
 <h2 align="left">Programas que utilizo || Programs I use:</h2>
 
-###
-
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</p>
 
 ###
