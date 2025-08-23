@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="left">🔗Hola! 👋 Qué tal? || Hey 👋 What's up?</h1>
+<h1 align="left">Hola! 👋 Qué tal? || Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">🔗 Sobre mi  ||  About me</h2>
+<h2 align="left">Sobre mi  ||  About me</h2>
 
 ###
 
-<p align="left">🔗 Mi nombre es Matías y me encuentro estudiando la carrera de desarrollo de software. Estoy aprendiendo lo referente a lenguajes de programación y adentrándome en este mundo. <br><br>🔗 My name is Matías, and I'm currently studying software development. I'm learning about programming languages ​​and delving into this world.</p>
+<p align="left">Mi nombre es Matías y me encuentro estudiando la carrera de desarrollo de software. Estoy aprendiendo lo referente a lenguajes de programación y adentrándome en este mundo. <br><br>My name is Matías, and I'm currently studying software development. I'm learning about programming languages ​​and delving into this world.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">🔗 Estoy iniciando a codificar con || I’m starting to code with</h2>
+<h2 align="left">Estoy iniciando a codificar con || I’m starting to code with</h2>
 
 ###
 
