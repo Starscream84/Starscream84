@@ -4,20 +4,21 @@
 
 ###
 
-<h1 align="left">Hola! 👋 Qué tal? || Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm Matías 👋</h1>
 
 ###
 
-<h2 align="left">Sobre mi  ||  About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Mi nombre es Matías y me encuentro cursando el primer año de la Tecnicatura Superior en Desarrollo de Software. Estoy aprendiendo lo referente a lenguajes de programación y adentrándome en este mundo. <br><br>My name is Matías and I am currently studying the first year of the Higher Technician in Software Development. I'm learning about programming languages ​​and delving into this world.</p>
+<p align="left">Second-year Software Development student passionate about programming and technology.</p>
 
 ###
 
 <p align="left">
-  🎲 Fun fact: <br>Me gusta correr...<br>Mi hobby favorito es dibujar, te invito a ver mi <a href="https://www.artstation.com/matias84">portfolio</a>.</p>
+  🏃 I enjoy running and challenging myself with long-distance races. <br>🎨 My favorite hobby is drawing — especially comics and digital   art.
+</p>
 
 ###
 
